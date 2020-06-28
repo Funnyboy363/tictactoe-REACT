@@ -1,3 +1,7 @@
+Certain parts of the app were adjusted for appealing use. This was originally attempted by going through the tutorial on Reactjs website 
+(reactjs.org) in order to follow and understand the react syntax and the purpose. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
